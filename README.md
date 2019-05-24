@@ -9,4 +9,5 @@ Pedro Garcia Bandini RA:2519102961 </br>
 Jamil Jhonatan Lecona Chura  RA:3019105587 </br>
 Guilherme Dias Scabello RA:919103811 </br>
 
-Publicado em:
+Publicado em:</br>
+https://laboratoriodejogos.github.io/game004-FlipBoard/.
