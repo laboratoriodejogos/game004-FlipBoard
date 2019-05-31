@@ -10,7 +10,16 @@ function Sprite(x, y, largura, altura){
   } 
 }
 
-var bg = new Sprite(69, 60, 608, 600), 
+var bg = new Sprite(69, 107, 608, 540),   
 spriteBoneco = new Sprite(805, 354 , 37, 44),
 spriteObstacle = new Sprite(966, 295, 50, 120),
-spriteChao = new Sprite(69, 620,608, 54 );
+spriteChao = new Sprite(69, 648, 608, 54 ),
+spriteStart = new Sprite(847, 102, 251, 95),
+spriteFim = new Sprite(871, 515, 206, 100),
+spriteBarra = new Sprite(824, 218, 289, 64),
+spriteHighScore = new Sprite(871, 649, 203, 45);
+
+
+
+
+
